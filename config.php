@@ -3,8 +3,8 @@
 return [
     'database' => [
         'host' => 'localhost',
-        'port' => 8000,
-        'dbname' => 'dwa',
+        'port' => 3306,
+        'dbname' => 'myapp',
         'charset' => 'utf8mb4'
     ],
 
